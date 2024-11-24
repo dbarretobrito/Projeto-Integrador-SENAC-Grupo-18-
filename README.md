@@ -17,7 +17,8 @@ Este projeto apresenta funcionalidades relacionadas à gestão acadêmica:
 - _Contratos:_ Administração de contratos dos Fornecedores gerenciados pelos funcionários.
 
 
-## 👤 Autores
+## 👤 Autores 
+-Adonias valdivino de oliveira neto
 - Daniel Barreto Brito
 - Nathalia Alves de Jesus
 
