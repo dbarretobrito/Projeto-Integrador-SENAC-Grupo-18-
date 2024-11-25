@@ -1,4 +1,4 @@
-# Projeto SENAC - 3º período
+# Projeto Integrador SENAC - 3º período (Segunda Parte)
 
 Este projeto tem como intuito documentar o funcionamento do gerenciamento de uma faculdade para disciplina de Projeto Integrador do 3º período do SENAC.
 
