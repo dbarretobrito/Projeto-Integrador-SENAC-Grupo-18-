@@ -2,7 +2,7 @@
 
 Este projeto tem como intuito documentar o funcionamento do gerenciamento de uma faculdade para disciplina de Projeto Integrador do 3º período do SENAC.
 
-<img src="https://sindilimpe-es.org.br/wp-content/uploads/2019/07/Senac-cursos2_destaque-800x700.jpg" width="400" height="200"/>
+<img src="[https://sindilimpe-es.org.br/wp-content/uploads/2019/07/Senac-cursos2_destaque-800x700.jpg](https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2012/08/012.jpg?fit=630%2C413&ssl=1)" width="400" height="200"/>
 
 ## 📖 Sobre o Projeto
 
