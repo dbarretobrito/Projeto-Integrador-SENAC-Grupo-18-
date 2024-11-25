@@ -44,6 +44,13 @@ Este projeto apresenta funcionalidades relacionadas à gestão acadêmica:
 ### 9. Tela de Serviços Contratados
 ![Tela de Serviços Contratados](https://raw.githubusercontent.com/dbarretobrito/Projeto-Integrador-SENAC-Grupo-18-/refs/heads/main/8-TELA_DE_SERVIÇOS_CONTRATADOS.png)
 
+## Diagrama de Classes
+![Diagrama de Classes](https://raw.githubusercontent.com/dbarretobrito/Projeto-Integrador-SENAC-Grupo-18-/refs/heads/main/Diagrama_de_Classes.png)
+
+## Diagrama de Caso de Uso
+![Diagrama de Caso de Uso](https://raw.githubusercontent.com/dbarretobrito/Projeto-Integrador-SENAC-Grupo-18-/refs/heads/main/Diagrama_de_Caso_de_Uso.png)
+
+
 ## 👤 Autores
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/120262399?v=4" width=115><br><sub>Daniel Barreto</sub>](https://github.com/dbarretobrito) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/104657809?v=4" width=115><br><sub>Nathalia Alves</sub>](https://github.com/nothalia) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/178934343?v=4" width=115><br><sub>Angela Meira</sub>](https://github.com/ANGELAMEIRA) |   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/189404432?v=4" width=115><br><sub>Brendo Santos</sub>](https://github.com/brendodz8) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/189454709?v=4" width=115><br><sub>Adonias Neto</sub>](https://github.com/adoniasneto-33) |
