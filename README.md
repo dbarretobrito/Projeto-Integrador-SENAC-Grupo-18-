@@ -18,10 +18,11 @@ Este projeto apresenta funcionalidades relacionadas à gestão acadêmica:
 
 
 ## 👤 Autores 
--Adonias valdivino de oliveira neto
+
 - Daniel Barreto Brito
 - Nathalia Alves de Jesus
-- Angela Brito Martins Meira 
+- Angela Brito Martins Meira
+- Adonias Valdivino de Oliveira Neto
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/120262399?v=4" width=115><br><sub>Daniel Barreto</sub>](https://github.com/dbarretobrito) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/104657809?v=4" width=115><br><sub>Nathalia Alves</sub>](https://github.com/nothalia) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/178934343?v=4" width=115><br><sub>Angela Meira</sub>](https://github.com/ANGELAMEIRA) |   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/189404432?v=4" width=115><br><sub>Brendo Santos</sub>](https://github.com/brendodz8) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/189454709?v=4" width=115><br><sub>Adonias Neto</sub>](https://github.com/adoniasneto-33) |
 | :---: | :---: | :---: | :---: | :---: |
